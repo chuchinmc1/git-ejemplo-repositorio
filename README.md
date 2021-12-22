@@ -10,3 +10,5 @@ Este mensaje es para ejemplificar el uso de Visual Studio Code y source control 
 =======
 Agrego un cambio a este archivo desde Github
 >>>>>>> 8e91159b6fa9223cd47684dd398d010d79ddbef2
+
+Este mensaje es para ejemplificar el uso de la extensión de GIthub en VisualStudio Code.
